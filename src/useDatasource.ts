@@ -4,7 +4,7 @@ import { Datasource, DatasourceConfig } from "@nexcodepl/endpoint-client";
 
 export function useDatasource<TEndpoint extends EndpointDefinition<any, any, any, boolean>>(
     endpointDefinition: TEndpoint,
-    config?: DatasourceConfig
+    config?: DatasourceConfig<TEndpoint>
 ): Datasource<TEndpoint> {
     const ds = useRefStatic<Datasource<TEndpoint>>(() => new Datasource<TEndpoint>(endpointDefinition, config ?? {}));
 

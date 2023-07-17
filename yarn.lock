@@ -58,13 +58,13 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@nexcodepl/endpoint-client@^3.0.5":
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/@nexcodepl/endpoint-client/-/endpoint-client-3.0.5.tgz#13401002c6db4491a41c945763670b37a13bdda0"
-  integrity sha512-SUqSm78S0M0uasi8T1zxwJ5BGakc1s1afHaJYjsk4DKGy8Eis1GNV4V1lRU6vtVeY5LCAkuXc69UPKbh/JSTcg==
+"@nexcodepl/endpoint-client@^3.0.6":
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/@nexcodepl/endpoint-client/-/endpoint-client-3.0.6.tgz#eba5c6212b874fe2a955b62de247bed7aeda4a21"
+  integrity sha512-VN+L34zFulBJhRrOBz05ry7e7824HM2Xsw/Z0SjISdCuG5GwIAwkNvm9EFEmYWSs5ziGgTzA9euKZk2tKs4Z8g==
   dependencies:
     "@nexcodepl/endpoint-types" "^2.0.0"
-    "@nexcodepl/store" "^1.0.7"
+    "@nexcodepl/store" "^1.0.8"
     axios "^1.3.4"
 
 "@nexcodepl/endpoint-types@^2.0.0":
@@ -72,18 +72,18 @@
   resolved "https://registry.yarnpkg.com/@nexcodepl/endpoint-types/-/endpoint-types-2.0.0.tgz#1061d11ea64de363615a03cf34fddfdc9b10600e"
   integrity sha512-9SSx1aRAMAXnTdn6yRmzHjksxH0XGXmPh8etIz30coihFAgYRzdcIJSGVwRN5ntyQvBL02T1X75cMRbcVwaTnQ==
 
-"@nexcodepl/store-react@^1.0.9":
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/@nexcodepl/store-react/-/store-react-1.0.9.tgz#6bc632ea19ff097665c5908b294fc4a1f416dbdc"
-  integrity sha512-B1lbeKbqnyldBXtC2HHH+sZ6ZtFQbR71PvD4lFRsh5tMl1WA9Xr5WBXvpJmRaQqAmRm4E+ya9LX8ezDzdhFklw==
+"@nexcodepl/store-react@^1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@nexcodepl/store-react/-/store-react-1.0.10.tgz#f0053ccc010dcbe7207de83711222e6d00ea8378"
+  integrity sha512-YSJuua30QRvG2GAoOgwGBEbjfXmBvDMQB16POSyNOJRjYk6rKhap7rcS9TfIuEgIh3gxOHX0zPaSXxUJIQMCeg==
   dependencies:
-    "@nexcodepl/store" "^1.0.7"
+    "@nexcodepl/store" "^1.0.8"
     react "^18.2.0"
 
-"@nexcodepl/store@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@nexcodepl/store/-/store-1.0.7.tgz#e6380d511de26499380af19b946208c84bd022d2"
-  integrity sha512-9kjjV4lXip4VYJ2ggDtn+M/pmMBjcFohW+NG5gavIw3f4erxOgF2rSTrzuVEAwk9BrMPBtnx3tH3rPN0ITBbYQ==
+"@nexcodepl/store@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@nexcodepl/store/-/store-1.0.8.tgz#0138c1ddbf3857a520e45b9fe8d0d51b16f1565e"
+  integrity sha512-m8fT25EV8MY8cKQuZlelK3ctwDp3RBR1j7Z8UrfPyiw9DxtSo5LtSpZHDxgz4Xq8iP1Dzzor116vTuf0llfyrA==
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
