@@ -58,10 +58,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@nexcodepl/endpoint-client@^3.0.10":
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/@nexcodepl/endpoint-client/-/endpoint-client-3.0.10.tgz#bca31f18f902f29c2b9a53a4715dae41885b37cb"
-  integrity sha512-4It7JVxdLrw5WS0XUykWOMAs7kDFuPRJO4PgeqE+4wsXwzELlDxckJpYKRiwjd7+xaA4GkKrZsA/o1C8K927Ow==
+"@nexcodepl/endpoint-client@^3.0.11":
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/@nexcodepl/endpoint-client/-/endpoint-client-3.0.11.tgz#70706457e0144582e07570994b314c8ecfc35808"
+  integrity sha512-aLTZb2MewFzyzc/4PO35pfK9Fwqr8GOjsMVzB/QIyCdwNnL77qe/yTuks6LefPdA/zhr/jVc/rEOiPGQFc8HfA==
   dependencies:
     "@nexcodepl/endpoint-types" "^2.0.0"
     "@nexcodepl/store" "^1.0.12"

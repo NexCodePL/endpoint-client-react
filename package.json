@@ -1,6 +1,6 @@
 {
     "name": "@nexcodepl/endpoint-client-react",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "description": "react utils for @nexcodepl/endpoint-client",
     "main": "./lib/index.js",
     "types": "./lib/index.d.ts",
@@ -25,7 +25,7 @@
         "postversion": "git push && git push --tags"
     },
     "dependencies": {
-        "@nexcodepl/endpoint-client": "^3.0.10",
+        "@nexcodepl/endpoint-client": "^3.0.11",
         "@nexcodepl/endpoint-types": "^2.0.0",
         "@nexcodepl/store-react": "^1.0.14"
     },
